@@ -76,7 +76,7 @@ Now you need to install a release of _ffmpeg_ from their official site at [www.f
 Choosing an essential build should be enough, although you may choose to go for a full build while you're at it (you may need it for something else later...)  
 
 Once downloaded, extract the downloaded zip file to a known location (E.g. "C:\Users\Admin\Desktop")  
-Since the _ffmpeg_ project build will be an archive of the '.7z' format, to unzip and extract it, you will need to install the _7zip_ archiver from the [7zip official site](www.7zip.org)  
+Since the _ffmpeg_ project build will be an archive of the '.7z' format, to unzip and extract it, you will need to install the _7zip_ archiver from the [7zip official site](https://www.7zip.org)  
 
 Now copy the path to that directory (not the path of an extracted file itself) and add this to the system variables path ([see here for a short tutorial](https://www.youtube.com/watch?v=r1AtmY-RMyQ))  
 
